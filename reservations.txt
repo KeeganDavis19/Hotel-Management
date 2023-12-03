@@ -1,0 +1,9 @@
+Marriot Reservations Report
+------------------------------
+
+Confrimation Number: 1000
+	Guest: Davis
+	Room:100
+	From: 12/1/23	To: 12/5/23
+	Status: Vacant
+

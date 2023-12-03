@@ -1,0 +1,10 @@
+Marriot Rooms Report
+
+Room:	Availability:
+----------------------
+100		Reserved
+101		Reserved
+102		Available
+103		Available
+104		Available
+105		Available
